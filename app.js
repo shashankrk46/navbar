@@ -16,7 +16,10 @@ const navSlide=()=>{
         }
        
     });
+    // berger animation
+    burger.classList.toggle('toggle');
     });
+
     
 }
 
